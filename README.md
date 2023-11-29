@@ -1,6 +1,8 @@
 # To Do List
 With HTML, CSS and JavaScript
 
+link: https://yukl-c.github.io/To-Do-List.io/
+
 Instructions of To-Do List:
 - Type the format in "'task content', 'task category';" for each items in the to-do list. Can type the items more than one. Then click "Add" button. 'Task Category' List is on the right.
 - Click the content in the list once to add strike line, click it again to remove the strike line.
